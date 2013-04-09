@@ -1,8 +1,8 @@
 {
   "name": "jquery-ui",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "main": "./ui/jquery-ui.custom.js",
   "dependencies": {
-    "jquery": ">= 1.8"
+    "jquery": "git://github.com/components/jquery.git#1.9.1"
   }
 }
